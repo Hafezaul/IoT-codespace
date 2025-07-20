@@ -18,3 +18,8 @@
 | GND     | GND         |
 | Trig    | Pin 9       |
 | Echo    | Pin 10      |
+
+
+<h3>Coba Demo</h3>
+
+[🔌 Klik untuk Simulasi di Wokwi](https://wokwi.com/projects/418680848311396353)
